@@ -83,7 +83,7 @@
       \<Theta\><rsub|r1>=\<Theta\><rsub|i1>=52
     </math>
 
-    \<Theta\><math|<rsub|A>=90-\<Theta\><rsub|r1>=38><space|2em><math|\<Theta\><rsub|B>=180-135-\<Theta\><rsub|A>=7>
+    \<Theta\><math|<rsub|A>=90-\<Theta\><rsub|r1>=38<rsup|o<line-break>>><space|2em><math|\<Theta\><rsub|B>=180-135-\<Theta\><rsub|A>=7>
 
     <math|\<phi\>=7>
   </itemize-dot>
